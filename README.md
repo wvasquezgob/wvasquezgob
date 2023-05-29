@@ -6,7 +6,7 @@
 
 ### - :man_student: Sobre Mi :
 
-Soy Estudiante de Ingeniería en Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Universidad Mariano Gálvez de Guatemala.
+ Analista Programados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :man_technologist: Trabajo como Analista Programador y contribuyo en el front-end y back-end para desarrollar aplicaciones escalables con el fin de brindar una mejor experiencia a los usuarios
 
