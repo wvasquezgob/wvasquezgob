@@ -6,11 +6,11 @@
 
 ### - :man_student: Sobre Mi :
 
- Analista Programados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ Analista Programador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :man_technologist: Trabajo como Analista Programador y contribuyo en el front-end y back-end para desarrollar aplicaciones escalables con el fin de brindar una mejor experiencia a los usuarios
 
-- :computer: En mi tiempo libre aprendo cosas nuevas sobre tecnología.
+- :computer: En mi tiempo libre aprendo música y teología.
 
 - :mailbox:Puedes contactarme por este medio: [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/WVasquezCode)
 
